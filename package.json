@@ -9,7 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
   "dependencies": {
-    "node-windows": "^1.0.0-beta.8"
+    "mssql": "^9.1.1",
+    "node-windows": "^1.0.0-beta.8",
+    "toad-scheduler": "^2.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
   }
 }
