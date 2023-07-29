@@ -24,7 +24,7 @@ const backupDB = async () => {
 
   const config = {
     user: 'sa',
-    password: 'Yieldxbiz2021',
+    password: 'Yieldxbiz2023',
     server: 'localhost',
     database: 'yx_rm',
     options: { encrypt: false },
